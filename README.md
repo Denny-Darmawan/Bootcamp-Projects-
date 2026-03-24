@@ -1,2 +1,1 @@
-# Bootcamps-Project-
-Projects from Bootcamps using Python and PostgreSQL
+Projects from Bootcamp using Python and PostgreSQL
